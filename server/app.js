@@ -16,7 +16,7 @@ app.use(cors())
 
 // base route
 app.get('/', (req, res) => {
-    res.send("Welcome to the Job Application Tracker API!!!")
+    res.send("Welcome to the server API")
 })
 
 
